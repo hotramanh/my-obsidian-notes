@@ -1,0 +1,9 @@
+{
+  "accentColor": "#33c773",
+  "monospaceFontFamily": "Cascadia Code",
+  "enabledCssSnippets": [
+    "centering images",
+    "readable-line-length"
+  ],
+  "nativeMenus": false
+}

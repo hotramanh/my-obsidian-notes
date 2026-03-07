@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Watched": "checkbox",
+    "Date": "date",
+    "Read": "checkbox",
+    "due_date": "date",
+    "show_after": "date",
+    "urgent": "checkbox",
+    "important": "checkbox",
+    "prep time (days)": "number",
+    "story_points": "text",
+    "completed": "checkbox",
+    "Archived": "checkbox"
+  }
+}

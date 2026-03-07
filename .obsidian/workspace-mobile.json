@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "09b0bbd1ed3be29f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e1c99c6ca8bfd56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cefafa3f3576d099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/David Knowledgebase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "David Knowledgebase"
+            }
+          },
+          {
+            "id": "1d190fd4add86aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025, April 29th.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025, April 29th"
+            }
+          },
+          {
+            "id": "89440395e02675a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management/Tag Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tag Management"
+            }
+          },
+          {
+            "id": "ca9de091a4ea3cb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/David Gift Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "David Gift Ideas"
+            }
+          },
+          {
+            "id": "fb0357da0493fe25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Archived/Daniel Care Package.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daniel Care Package"
+            }
+          },
+          {
+            "id": "ae2f92f57c0a316f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/07132025 Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07132025 Tasks"
+            }
+          },
+          {
+            "id": "2bd511b36437c228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/David Gift Ideas.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "David Gift Ideas"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "ab2f7f02a0cd6361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e0f67004a1cce3c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6033575980336099,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad0615031bd40625",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cf1e203030bddecc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a47c5817b2ab3c89",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "david ",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "83ce9e8bf4195bde",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "3a49d6f7986faff7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "93b8688f366fb87e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1469298c0cd57c81",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "📖 Books/📘Caste.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "96e1b469e1cc2a3b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Books To Read.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "30fca3deb8c5155a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Books To Read.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "2bd511b36437c228",
+  "lastOpenFiles": [
+    "Misc/Things to do in Columbia Missouri.md",
+    "Misc/David Gift Ideas.md",
+    "📖 Books/📘Caste.md",
+    "📖 Books/📘 Merge Left.md",
+    "📖 Books/📘 Bad Beliefs.md",
+    "📖 Books/📘 Algospeak.md",
+    "📖 Books/📘 How to Hide an Empire.md",
+    "📖 Books/📘 The Half-Life of Facts.md",
+    "📖 Books/📘The Way We Never Were.md",
+    "📖 Books/📘Come Together.md",
+    "Misc/Omelet You Cook Wiki notes.md",
+    "Misc/Omelet You Cook - Sunny's Daily Request.png",
+    "Misc/Investing.md",
+    "Templates/Email Templates.md",
+    "Templates/Read Later (Article) Template.md",
+    "Templates/Video Essay Template.md",
+    "Templates/Task Template.md",
+    "📖 Books/📘 Irony's Edge.md",
+    "📖 Books/📘The New Topping Book.md",
+    "Misc/Wrapping Gifts.md",
+    "Misc/The Killer TTRPG.md",
+    "Misc/Marriage Advice.md",
+    "Misc/Van-Anh Knowledge Base.md",
+    "Misc/Vegas.md",
+    "Misc/Getting a Cat.md",
+    "Management/Dataview Collections/Tasks.md",
+    "Management/Dataview Collections/Home Page.md",
+    "Daily Notes/2025/05",
+    "Misc/Slaw The Princess Flowchart.png"
+  ]
+}

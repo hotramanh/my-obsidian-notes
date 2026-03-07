@@ -1,0 +1,81 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Misc/gitignore",
+      "tag": "#hobbies/sex",
+      "pattern": ""
+    },
+    {
+      "folder": "Templates",
+      "tag": "",
+      "pattern": "^.* Template"
+    },
+    {
+      "folder": "📖 Books",
+      "tag": "",
+      "pattern": "^📘.*"
+    },
+    {
+      "folder": "📺 Watch Later",
+      "tag": "#watch_later",
+      "pattern": ""
+    },
+    {
+      "folder": "Management",
+      "tag": "#note_management",
+      "pattern": ""
+    },
+    {
+      "folder": "Recipes",
+      "tag": "#recipes",
+      "pattern": ""
+    },
+    {
+      "folder": "Management/Tag Pages",
+      "tag": "",
+      "pattern": "^.*Tag Hub"
+    },
+    {
+      "folder": "Management/Dataview Collections",
+      "tag": "#dataview_collections",
+      "pattern": ""
+    },
+    {
+      "folder": "Tasks/Archived",
+      "tag": "#todo_completed",
+      "pattern": ""
+    },
+    {
+      "folder": "Tasks/Archived",
+      "tag": "#todo_archived",
+      "pattern": ""
+    },
+    {
+      "folder": "Tasks",
+      "tag": "#todo",
+      "pattern": ""
+    },
+    {
+      "folder": "Management",
+      "tag": "",
+      "pattern": "^.*.js"
+    },
+    {
+      "folder": "Misc",
+      "tag": "",
+      "pattern": "^.*"
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "Daily Notes"
+    },
+    {
+      "folder": "Management/Scripts"
+    }
+  ]
+}

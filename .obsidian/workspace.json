@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "29c595c4139231df",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c0a552640822ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "859861459a2b6d48",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management/Dataview Collections/Home Page.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home Page"
+            }
+          },
+          {
+            "id": "155cd07cd59aced8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Investing.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Investing"
+            }
+          },
+          {
+            "id": "dc71b088c1fa6649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/gitignore/The New Topping Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The New Topping Book"
+            }
+          },
+          {
+            "id": "aea63fb7c47742a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/April 29th.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "April 29th"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d821f9afdc5e9ec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "93121c2735adcbaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a82cc1c11a664c55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "06d2ba768668cf9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:social/david",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b068454363e6ab5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "451a7f4917bf46d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Management/Dataview Collections/Tasks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tasks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "79d93b86e6b8b5dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "53973417a6bc15c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0afb3e5921c134c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Management/Dataview Collections/Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tasks"
+            }
+          },
+          {
+            "id": "cb9991e9e63464e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Management/Dataview Collections/Tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tasks"
+            }
+          },
+          {
+            "id": "36d83ef942f9e535",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bf948d9388d02294",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Misc/David Daily Schedule Goals.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of David Daily Schedule Goals"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "aea63fb7c47742a0",
+  "lastOpenFiles": [
+    "Misc/David Health.md",
+    "Misc/April 29th.md",
+    "Recipes/Pumpkin Gooey Butter Cake.md",
+    "Templates/Read Later (Article) Template.md",
+    "Recipes/Banh Mi.md",
+    "Recipes/Bun Rieu Meatballs.md",
+    "Recipes/Kozy Shack Rice Pudding.md",
+    "Recipes/Bon Appetite Chocolate Chip Cookies.md",
+    "Recipes/Earl Gray Chocolate Cake.md",
+    "Recipes/Do Chua.md",
+    "Misc/Therapist Search.md",
+    "Misc/gitignore/Domsub dynamic w David.md",
+    "Misc/David Knowledge Base.md",
+    "Misc/David Daily Schedule Goals.md",
+    "Misc/CCUA Volunteering.md",
+    "Misc/gitignore/📘Come Together.md",
+    "Misc/gitignore/Pegging.md",
+    "Misc/gitignore/The New Topping Book.md",
+    "Misc/Balatro.md",
+    "Misc/Things to do in Columbia Missouri.md",
+    "Misc/Vegas.md",
+    "Misc/Vananhs Bday Party.md",
+    "Misc/BalatroWiki.md",
+    "Templates/Video Essay Template.md",
+    "Tasks/Seasonal Fruit Calendar.md",
+    "Tasks/Archived/David Playing Cards (Wedding).md",
+    "Slaw The Princess Flowchart.png",
+    "Management/Scripts/test.js",
+    "Management/Scripts/map.js",
+    "Management/Scripts/Watch Later.js",
+    "Management/Scripts/Create Task from Note.js",
+    "Misc/Watch Later.js",
+    "Misc/test.js",
+    "Misc/map.js",
+    "Misc/Create Task from Note.js",
+    "Management/Scripts",
+    "Management/Dataview Collections",
+    "Misc/The Killer TTRPG.jpg",
+    "Misc/Interior Decor Example.png",
+    "Pasted image 20260102210125.png",
+    "Misc/Omelet You Cook - Sunny's Daily Request.png",
+    "Misc/Bullet Journal Method - Threading.png",
+    "Misc/Bullet Journal - Future Log Cycle.png",
+    "Misc/Pasted image 20260102210149.png",
+    "Misc/Pasted image 20260102210109.png",
+    "Misc/BalatroWiki Reddit Inspo.png",
+    "Misc/Untitled.canvas"
+  ]
+}
