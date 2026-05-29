@@ -4,6 +4,8 @@ tags:
 ---
 **Moving image url formula:** https://omeletyoucook.miraheze.org/wiki/Special:MovePage/File:American_Cheese.png
 da spreadsheet: https://docs.google.com/spreadsheets/d/1mjbBUT4h7bGkLjwDUiYJzeL8Iyh3iYsXIxUtuLnKmX8/edit?gid=0#gid=0
+press kit: https://schubox.games/press/omelet_you_cook/index.html
+
 ## ingredients with no picture yet
 - shish kebab
 - lettuce
@@ -102,6 +104,7 @@ rare trashy embezzler/pb jar - 6
 	- best tag = tag that scored the most points 
 - pointing ingredients will not count ingredients on the side
 - truffle doesn't gain points from money earned from helpers (e.g. category collector)
+- you can get dupe helpers from selecting a random helper 
 
 
 ![[Omelet You Cook drizzler.png]]

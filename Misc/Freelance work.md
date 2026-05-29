@@ -1,3 +1,8 @@
+---
+tags:
+  - job_hunt
+---
+
 getting contracts:
 - zach ross approach:
 	- cold calls. "hey im trying to expand my network, do you want to meet up for coffee" 

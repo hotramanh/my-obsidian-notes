@@ -1,9 +1,11 @@
 {
-  "accentColor": "#33c773",
+  "accentColor": "#45b575",
   "monospaceFontFamily": "Cascadia Code",
   "enabledCssSnippets": [
     "centering images",
-    "readable-line-length"
+    "readable-line-length",
+    "custom bullet"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 20
 }

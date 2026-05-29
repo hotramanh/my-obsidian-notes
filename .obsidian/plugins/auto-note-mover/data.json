@@ -9,9 +9,19 @@
       "pattern": ""
     },
     {
+      "folder": "Misc/gitignore",
+      "tag": "#gitignore",
+      "pattern": ""
+    },
+    {
       "folder": "Templates",
       "tag": "",
       "pattern": "^.* Template"
+    },
+    {
+      "folder": "📖 Books/Images",
+      "tag": "",
+      "pattern": "^📘📷.*"
     },
     {
       "folder": "📖 Books",

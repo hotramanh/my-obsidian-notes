@@ -13,7 +13,7 @@ Date: 2024-09-08
 	- chocolate cake mix (we used Dolly Parton 15.25oz)
 	- espresso powder
 - cake watering
-	- salted orange [^1]
+	- salted orange
 	- earl gray tea
 - stabilized tea cream
 	- tea bag insides for visual contrast

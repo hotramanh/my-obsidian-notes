@@ -6,6 +6,7 @@
       {
         "id": "53c0a552640822ac",
         "type": "tabs",
+        "dimension": 77.07045735475896,
         "children": [
           {
             "id": "859861459a2b6d48",
@@ -57,16 +58,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/April 29th.md",
+                "file": "Recipes/Earl Gray Chocolate Cake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "April 29th"
+              "title": "Earl Gray Chocolate Cake"
+            }
+          },
+          {
+            "id": "452989308cc9cbf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📖 Books/📘 Atomic Habits.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "📘 Atomic Habits"
+            },
+            "group": "f659c83da95ec9dd"
+          },
+          {
+            "id": "ffe2a35106c8c6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/gitignore/2026, May 29th Discussion Agenda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026, May 29th Discussion Agenda"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
+      },
+      {
+        "id": "dc80f4e197a51d1b",
+        "type": "tabs",
+        "dimension": 22.92954264524104,
+        "children": [
+          {
+            "id": "0aebf0a6791b9b0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📖 Books/📘 Atomic Habits.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 📘 Atomic Habits"
+            },
+            "group": "f659c83da95ec9dd"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:social/david",
+                "query": "cats",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 298.5
   },
   "right": {
     "id": "79d93b86e6b8b5dd",
@@ -231,34 +285,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aea63fb7c47742a0",
+  "active": "ffe2a35106c8c6e6",
   "lastOpenFiles": [
-    "Misc/David Health.md",
+    "Misc/Freelance work.md",
+    "Daily Notes/2025, May 3rd.md",
+    "Management/Tag Pages/events Tag Hub.md",
+    "Misc/Cats.md",
+    "Misc/Pet Insurance.md",
+    "Misc/gitignore/2026, May 29th Discussion Agenda.md",
     "Misc/April 29th.md",
-    "Recipes/Pumpkin Gooey Butter Cake.md",
-    "Templates/Read Later (Article) Template.md",
-    "Recipes/Banh Mi.md",
-    "Recipes/Bun Rieu Meatballs.md",
-    "Recipes/Kozy Shack Rice Pudding.md",
-    "Recipes/Bon Appetite Chocolate Chip Cookies.md",
-    "Recipes/Earl Gray Chocolate Cake.md",
-    "Recipes/Do Chua.md",
-    "Misc/Therapist Search.md",
-    "Misc/gitignore/Domsub dynamic w David.md",
-    "Misc/David Knowledge Base.md",
-    "Misc/David Daily Schedule Goals.md",
-    "Misc/CCUA Volunteering.md",
-    "Misc/gitignore/📘Come Together.md",
     "Misc/gitignore/Pegging.md",
-    "Misc/gitignore/The New Topping Book.md",
-    "Misc/Balatro.md",
-    "Misc/Things to do in Columbia Missouri.md",
-    "Misc/Vegas.md",
-    "Misc/Vananhs Bday Party.md",
-    "Misc/BalatroWiki.md",
-    "Templates/Video Essay Template.md",
-    "Tasks/Seasonal Fruit Calendar.md",
-    "Tasks/Archived/David Playing Cards (Wedding).md",
+    "Misc/gitignore/Domsub dynamic w David.md",
+    "Management/Dataview Collections/Books To Read.md",
+    "📖 Books/📘 Atomic Habits.md",
+    "Misc/Artboard 1.svg",
+    "Misc/ex icon.svg",
+    "Misc/gitignore/📘The New Topping Book.md",
+    "Misc/gitignore/📘Come Together.md",
+    "📖 Books/📘 Algospeak.md",
+    "📖 Books/Images/📘📷 Atomic Habits - goldilocks zone.png",
+    "📖 Books/Images/📘📷 Atomic Habits - choices.png",
+    "📖 Books/Images/📘📷 Atomic Habits - automaticity graph.png",
+    "Management/Custom Bullet List.md",
+    "📖 Books/📘 The Bullet Journal Method.md",
+    "📖 Books/📘 Irony's Edge.md",
+    "📖 Books/📘Caste.md",
+    "Management/SVG",
+    "Management/Reddit Suggestions.md",
+    "Management/Auto Sync Obsidian Notes.md",
+    "Recipes/Earl Gray Lavendar.md",
+    "📖 Books/Images/📘📷 Atomic Habits - framework for creating or breaking habits.png",
+    "📖 Books/Images/📘📷 Atomic Habits - Problem and Solution Phase example.png",
+    "📖 Books/Images/📘📷 Atomic Habits - Habit formation.png",
+    "📖 Books/Images/📘📷 Atomic Habits - 3 layers of behavioral changes.png",
+    "📖 Books/Images",
+    "Misc/Final Fantasy Tactics Advanced Guides.md",
+    "Recipes/Earl Gray Chocolate Cake.md",
+    "Misc/Earl Gray Chocolate Cake.md",
+    "Misc/Vananhs 2025 Bday Party.md",
+    "Misc/Marriage Advice.md",
     "Slaw The Princess Flowchart.png",
     "Management/Scripts/test.js",
     "Management/Scripts/map.js",
@@ -268,17 +333,6 @@
     "Misc/test.js",
     "Misc/map.js",
     "Misc/Create Task from Note.js",
-    "Management/Scripts",
-    "Management/Dataview Collections",
-    "Misc/The Killer TTRPG.jpg",
-    "Misc/Interior Decor Example.png",
-    "Pasted image 20260102210125.png",
-    "Misc/Omelet You Cook - Sunny's Daily Request.png",
-    "Misc/Bullet Journal Method - Threading.png",
-    "Misc/Bullet Journal - Future Log Cycle.png",
-    "Misc/Pasted image 20260102210149.png",
-    "Misc/Pasted image 20260102210109.png",
-    "Misc/BalatroWiki Reddit Inspo.png",
     "Misc/Untitled.canvas"
   ]
 }

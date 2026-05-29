@@ -153,7 +153,7 @@ take out ANYTHING non-essential e.g.
 
 ### future log
 - holds entries that fall outside the current month
-![[Bullet Journal - Future Log Cycle.png]]
+![[📘📷 Bullet Journal - Future Log Cycle.png]]
 
 
 ### index 
@@ -162,7 +162,7 @@ take out ANYTHING non-essential e.g.
 - collections can have subcollections
 - you can have dedicated indexes
 - thread instances by noting the page number of the prev/next instance
-![[Bullet Journal Method - Threading.png]]
+![[📘📷 Bullet Journal Method - Threading.png]]
 
 ## Migration
 - transfer bujo content from one place to another by rewriting 
